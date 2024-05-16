@@ -1,4 +1,4 @@
----
+0x14c82d097E4159349F2B1C5B3b57CCAa1e82aA6e--
 title: GitHub Community Guidelines
 redirect_from:
   - /community-guidelines
